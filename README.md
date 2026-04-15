@@ -14,7 +14,6 @@ https://expo.dev/artifacts/eas/tr1B4FGkWZd9Dse5REd2Nh.apk
 ------------------------------------------------------------------------
 
 ## Screenshots
-
 <p align="center">
   <img src="./screenshots/home-screen.jpeg" width="250"/>
   <img src="./screenshots/profile-screen.jpeg" width="250"/>
